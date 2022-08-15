@@ -1,0 +1,10 @@
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\bin\Debug\netstandard2.0\diplomkaML.Model.deps.json
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\bin\Debug\netstandard2.0\diplomkaML.Model.dll
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\bin\Debug\netstandard2.0\diplomkaML.Model.pdb
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.AssemblyInfo.cs
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.dll
+C:\Users\black\source\repos\diplomka\diplomkaML.Model\obj\Debug\netstandard2.0\diplomkaML.Model.pdb
